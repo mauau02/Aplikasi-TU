@@ -1,0 +1,5 @@
+{
+  "name": "TAU 02 Manajemen  ",
+  "description": "A modern, comprehensive high school management system featuring a summary dashboard, student records with CRUD operations, and grade management, powered by React and Gemini AI for performance analysis.",
+  "requestFramePermissions": []
+}
